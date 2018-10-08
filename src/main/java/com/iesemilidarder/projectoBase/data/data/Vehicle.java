@@ -5,11 +5,12 @@ public abstract class Vehicle {
 
     public void brake() { doLog("he frenado"); }
 
-    protected void doLog(String message){
+    public void doLog(String message){
         System.out.println(message);
         }
-    public String showLog(String message) {
-        
+    private String showLog(String message) {
+        doLog(message);
+        return message;
     }
 
 }
