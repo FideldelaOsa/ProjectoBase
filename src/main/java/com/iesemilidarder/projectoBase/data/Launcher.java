@@ -18,7 +18,6 @@ public class Launcher {
         Vehicle Coche = new Coche();
         Coche.setNumDoors(3);
         Coche.setNumWheels(4);
-        Coche.
 
     }
 }
