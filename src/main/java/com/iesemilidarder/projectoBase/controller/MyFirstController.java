@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyFirstController {
     @RequestMapping ("/car")
-    public Vehicle greeting(@RequestParam(value="name", defaultValue="BrumBrum") String name)
+    public Vehicle getCar(@RequestParam(value="name", defaultValue="BrumBrum") String name)
     {
         Car car = new Car();
         car.setName(name) ;
