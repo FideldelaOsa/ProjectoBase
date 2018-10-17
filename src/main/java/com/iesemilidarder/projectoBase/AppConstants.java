@@ -1,7 +1,7 @@
-package com.iesemilidarder.asoto;
+package com.iesemilidarder.projectoBase;
 
 /**
- * com.iesemilidarder.asoto
+ * com.iesemilidarder.projectoBase
  * Class AppConstants
  * By berto. 11/10/2018
  */

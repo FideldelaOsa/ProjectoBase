@@ -1,11 +1,11 @@
-package com.iesemilidarder.asoto.data;
+package com.iesemilidarder.projectoBase.data;
 
-import com.iesemilidarder.asoto.AppConstants;
-import com.iesemilidarder.asoto.exception.IESMyException;
+import com.iesemilidarder.projectoBase.AppConstants;
+import com.iesemilidarder.projectoBase.exception.IESMyException;
 import com.sun.istack.internal.localization.NullLocalizable;
 
 /**
- * com.iesemilidarder.asoto.data
+ * com.iesemilidarder.projectoBase.data
  * Class Vehicle
  * By berto. 04/10/2018
  */

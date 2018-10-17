@@ -1,7 +1,7 @@
-package com.iesemilidarder.asoto.exception;
+package com.iesemilidarder.projectoBase.exception;
 
 /**
- * com.iesemilidarder.asoto.exception
+ * com.iesemilidarder.projectoBase.exception
  * Class IESMyException
  * By berto. 11/10/2018
  */
